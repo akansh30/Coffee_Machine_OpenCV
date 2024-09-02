@@ -1,4 +1,4 @@
-# Coffee Machine OpenCV Project
+# Coffee Mania
 
 This project is a virtual coffee machine interface using computer vision techniques with OpenCV and the `cvzone` library. The program uses hand gestures detected through a webcam to simulate a user interface for selecting coffee types and other options.
 
