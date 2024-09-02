@@ -8,9 +8,33 @@ This project is a virtual coffee machine interface using computer vision techniq
 - Interactive user interface simulated with images.
 - Selection of different coffee options based on hand gestures.
 
-## Requirements
+## Installation
 
-To install all the dependencies listed in the `requirements.txt` file, run the following command:
+1. **Clone the Repository**:
+
+   ```bash
+   git clone https://github.com/akansh30/Coffee_Machine_OpenCV.git
+   cd Coffee_Machine_OpenCV
+
+2. **Install Dependencies**:
+
+It's recommended to use a virtual environment. If you are not using one, you can skip to installing dependencies.
 
 ```bash
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
+
+3. **Requirements**:
+   
+```bash
 pip install -r requirements.txt
+```
+
+4. **Run the project**:
+
+Ensure your webcam is connected and run the script:
+
+```bash
+python main.py
+```
