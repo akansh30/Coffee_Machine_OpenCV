@@ -8,7 +8,7 @@ This project is a virtual coffee machine interface using computer vision techniq
 - Interactive user interface simulated with images.
 - Selection of different coffee options based on hand gestures.
 
-  # Cofeee Mania Interface
+  # Coffee Mania Interface
   ![Screenshot 2024-09-02 180848](https://github.com/user-attachments/assets/87db9037-b0cc-40b7-87bf-32cd7280ec88)
 
   # Hand Gesture Selection
